@@ -1,0 +1,168 @@
+                        ABOUT DEATHMATCH AND OTHER STUFF
+                        ________________________________
+Contents:
+        1.Deathmatch in Earthquake (How to launch, set names, models e.t.c)
+        2.Deathmatch flags
+        3.Weapons, items, e.t.c
+_______________________________________________________________________________
+1.DEATHMATCH IN EARTQUAKE
+       If you want to launch it, just run EARTHQUAKE go to NEW GAME,MULTIPLAYER,
+       START MULTIPLAYER. After that enter the name of the map and press ENTER.
+       But I think you will have to set some of the options before playing:
+       a.) Name of 1 and 2 players
+       b.) Name of 1 and 2 player's models
+
+       After that setup run MULTIPLAYER.
+2.DEATHMATCH FLAGS
+
+       You can chose following DEATHMATCH flags:
+       a.) 999 of ammo for player one
+       b.) 999 of ammo for player two
+       c.) 1000% of health for player one
+       d.) 1000% of health for player two
+       e.) biosuit for both players
+       f.) biosuit off for both players
+       g.) restart level
+       h.) sudden death
+       
+       Plus two keyboard options:
+       a.) Maximum ammo and health for both players
+       b.) Quad fire(1 SHOT)
+
+       DESCRIPTION:
+      
+       Flag A,B - gives 999 of all ammo for player 1(2)
+       Flag C,D - gives 1000% of health for player 1(2)
+       Flag E,F - puts biosuit on(off) for both players (With the help of
+       biosuit you will not burn in slime and damage in lava will be low)
+       Flag G - restarts level (sets flags,slugs,bombs to 0 and shells to 20)
+       Flag H - makes 1 shell,slug,bomb,1% of health for both players
+
+       Keyboard A - gives 99 shells, 49 slugs, 29 bombs ,200% of health 
+       to player 1 and 2
+       Keyboard B - The shot after that option will be very powerful (1 SHOT)
+       If you'll wait a long period of time after that option 
+       the shot will be extra powerful
+
+3.WEAPONS, ITEMS, E.T.C
+    
+       In deathmatch you'll have following weapons:
+      
+       1.) Blaster
+       2.) Twistgun
+       3.) Thunderbolt
+       4.) Bomb
+       5.) Axe
+       6.) BFG 2000
+       7.) Rocket launcher
+
+       DESCRIPTION:
+       
+       1.) Blaster is the most harmless weapon, it shots not so far with red 
+       ammo
+       2.) Twistgun is a powerful weapon, it shots with twisted circles
+       3.) Thunderbolt shoots far and good, nice weapon
+       4.) Bombs are very powerful, but they have a short distance
+       5.) You can attack your portner with axe close, that weapon is powerful
+       6.) Yes baby, it's an old BFG 2000. It shoots very far and it's the most
+       powerful weapon in all game. P.S(Eats lot's of slugs, 30 to be exact)
+       7.) This weapon shoots with rockets far and fast, but you must
+       aim very good before attacking
+
+       Items of the game:
+       
+       1.) Ammo like slugs,shells,bombs and health
+       2.) Biosuit
+       3.) Teleports
+
+       DESCRIPTION:
+       
+       1.) You can use health power-up to increase your health. You'll need ammo
+       to shot with your weapons. The following drawings will be in the game:
+
+       ÚÄÄÄ¿        
+       ³   ³     Health
+       ÀÄÄÄÙ
+
+       ÚÄÄÜ¿
+       ³Üß ³     Energy cells
+       ßÄÄÄÙ
+       
+       ÚÄÂÄ¿
+       ³ ³Û³     Bombs
+       ³Û³ ³
+       ÀÄÁÄÙ
+        ____
+       /    \
+       | || |    Shells
+       \____/
+
+       2.) Biosuit is a protection against slime and basic blaster. It also
+       protects you from hot lava, but not completly.
+
+       I CAN'T DRAW BIOSUIT!!!
+
+
+       3.) Teleports are very important to. If you want to move yourself to
+       another zone of the level.
+
+       Here is a teleport:
+
+     . . .
+    . . .. .
+     . ,...
+    . .. . .
+
+       So, i think this is the end!
+       GOOD BYE!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             YOU'VE FOUND A SECRET AREA!
+The code for lot's of stuff is: EQ1P-099 or eq1p-099
+GOOD BYE!

@@ -1,0 +1,11 @@
+   SCREEN 12
+   ANGLE = -30
+   HI = 80
+   LINE(200,240)-(400,240),15
+   LINE(320,150)-(320,350),15
+   ANGLE = ANGLE / 180 * 3.14
+   X = COS(ANGLE) * HI
+   Y = SIN(ANGLE) * HI
+   LINE(320,240)-(X+320,Y+240), 4
+
+

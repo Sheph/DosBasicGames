@@ -1,0 +1,11 @@
+  SCREEN 12
+  RANDOMIZE TIMER
+  C=4
+  Y=4
+  FOR A=1 TO 1000
+  X%=INT(RND*640)
+  Z%=INT(RND*480)
+  LINE(X%,Y)-(X%,Y+480),A,,10
+  LINE(C,Z%)-(C+640,Z%),A,,10
+  NEXT A
+

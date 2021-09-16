@@ -1,0 +1,13 @@
+    CLS
+    INPUT"HEALTH:",A
+    INPUT"SHELLS:",B
+    INPUT"BOMBS:",C
+    INPUT"CELLS:",D
+    INPUT"NAME:",E$
+    OPEN"INFO.DAT" FOR OUTPUT AS #1
+    PRINT #1,A,B,C,D
+    CLOSE #1
+    OPEN"NAME.DAT" FOR OUTPUT AS #2
+    PRINT #2,E$
+    CLOSE #2
+    END

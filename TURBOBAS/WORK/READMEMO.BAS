@@ -1,0 +1,4 @@
+    CLS
+    BSAVE"SEGMENT.GRA",VARPTR(COOL(0)),65535
+
+

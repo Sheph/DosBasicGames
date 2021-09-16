@@ -1,0 +1,10 @@
+  SCREEN 12
+  X=1
+  Y=1.1:B=200
+  FOR A=1 TO B+200
+  CIRCLE(320,240),B,B-200,X,Y
+  X=X+0.085
+  Y=Y+0.09
+  B=B-0.5
+  NEXT A
+  END

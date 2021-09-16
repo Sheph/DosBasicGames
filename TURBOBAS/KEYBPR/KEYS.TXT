@@ -1,0 +1,46 @@
+In this file you'll know how to tipe some special symbols!
+English special symbols(CAPS LOCK must be on):
+~ - SHIFT + `
+! - SHIFT + 1
+@ - SHIFT + 2
+# - SHIFT + 3
+$ - SHIFT + 4
+% - SHIFT + 5
+^ - SHIFT + 6
+& - SHIFT + 7
+* - SHIFT + 8
+( - SHIFT + 9
+) - SHIFT + 0
+_ - SHIFT + -
++ - SHIFT + =
+| - SHIFT + \
+{ - SHIFT + [
+} - SHIFT + ]
+: - SHIFT + ;
+" - SHIFT + '
+< - SHIFT + ,
+> - SHIFT + .
+? - SHIFT + /
+A..Z - A..Z
+a..z - SHIFT+(A..Z)
+Russian special symbols(CAPS LOCK is on,Russian keys must be on(CTRL+SHIFT)):
+ð - SHIFT + `
+! - SHIFT + 1
+" - SHIFT + 2
+ü - SHIFT + 3
+; - SHIFT + 4
+% - SHIFT + 5
+: - SHIFT + 6
+? - SHIFT + 7
+* - SHIFT + 8
+( - SHIFT + 9
+) - SHIFT + 0
+_ - SHIFT + -
++ - SHIFT + =
+/ - SHIFT + \
+, - SHIFT + /
+. - /
+€..Ÿ - €..Ÿ
+ ..ï - SHIFT+(€..Ÿ) 
+
+

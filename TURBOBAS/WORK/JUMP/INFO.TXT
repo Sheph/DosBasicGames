@@ -1,0 +1,17 @@
+Arrows-move the target
+Enter-launch the ball
+Config stuff:
+Stuff.cfg - config file, you can create it and change the program
+You must write numbers there like this:*,*,*, ...
+#1 IS X POS, DEFAULT 320
+#2 IS Y POS, DEFAULT 240
+#3 IS JUMP STEP, DEFAULT 1
+#4 IS JUMP COUNTER, DEFAULT 0
+#5 IS BALL DEFORM, DEFAULT 1.05
+#6 IS GRAVITY, DEFAULT 1.06
+#7 IS SOUND, DEFAULT 1(1-SOUND ENABLED,0-SOUND DISABLED)
+#8 IS SOUND HEIGH, DEFAULT 1000
+#9 IS SOUND LENGH, DEFAULT 1
+
+Example of the file's contents:
+320,240,1,0,1.05,1.06,1,1000,1

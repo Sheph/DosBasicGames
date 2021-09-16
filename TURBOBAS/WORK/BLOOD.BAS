@@ -1,0 +1,18 @@
+   SCREEN 12
+   C=-5    'STARTING Y
+   U=4     'BLOOD COLOR 1
+   Z=12    'BLOOD COLOR 2
+   L=8     'BACKGROUND
+   COLOR 15,L
+   RANDOMIZE TIMER
+   FOR A=1 TO 300
+   FOR B=1 TO 250
+   X%=INT(RND * 640)
+   PSET(X%,C),U:IF U=4 THEN DRAW"C4 D8 R1":DRAW"C12 D5"
+   SWAP U,Z
+   C=C+0.005
+   NEXT
+   C=C+0.5
+   NEXT A
+   END
+
